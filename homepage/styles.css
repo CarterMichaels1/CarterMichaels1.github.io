@@ -1,0 +1,31 @@
+  h1 {
+    text-align: center;
+    font-family: 'Comic Neue';
+    font-size: 1000;
+  }
+
+  body {
+    background-color: lightblue;
+    text-align: center;
+    font-family: 'Comic Neue', cursive;
+  }
+
+  #iceskating {
+    width: 50%;
+    margin: auto;
+  }
+
+  p {
+    text-align: center;
+    font-family: 'Comic Neue';
+    margin: 100 100;
+  }
+
+  .lightblue{
+    background-color: lightblue;
+  }
+  .background {
+  background: url(skate.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+  }
